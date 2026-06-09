@@ -60,7 +60,7 @@ export default function Home() {
 
           <footer style={{ marginTop: "2rem", paddingTop: "1rem", borderTop: "1px solid #ddd" }}>
             <p>
-              <a href="https://github.com/Kirstyy04"><u>Github</u></a>
+              <a href="https://github.com/kirst-micha"><u>Github</u></a>
               {" | "}
               <a href="https://www.linkedin.com/in/kirsten-hogendoorn-49952a2bb/"><u>LinkedIn</u></a>
             </p>
