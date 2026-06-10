@@ -48,10 +48,10 @@ export default function Home() {
 
             <ul>
               <li>
-                <a href="/mountains">- <em>Mountains Hiked</em></a>
+                <a href="/mountains">- <u>Mountains Hiked</u></a>
               </li>
               <li>
-                <a href="/randoms">- <em>Randoms</em></a>
+                <a href="/randoms">- <u>Randoms</u></a>
               </li>
             </ul>
           </aside>
