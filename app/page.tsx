@@ -48,10 +48,10 @@ export default function Home() {
 
             <ul>
               <li>
-                <a href="/mountains">- Mountains Hiked</a>
+                <a href="/mountains">- <em>Mountains Hiked</em></a>
               </li>
               <li>
-                <a href="/randoms">- Randoms</a>
+                <a href="/randoms">- <em>Randoms</em></a>
               </li>
             </ul>
           </aside>
@@ -61,8 +61,6 @@ export default function Home() {
           <footer style={{ marginTop: "2rem", paddingTop: "1rem", borderTop: "1px solid #ddd" }}>
             <p>
               <a href="https://github.com/kirst-micha"><u>Github</u></a>
-              {" | "}
-              <a href="https://www.linkedin.com/in/kirsten-hogendoorn-49952a2bb/"><u>LinkedIn</u></a>
             </p>
           </footer>
         </main>
