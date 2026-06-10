@@ -37,7 +37,7 @@ export default function Home() {
             <br></br>
 
             <p> 
-             Want to see some of my motion graphics in action? You can catch a video over on the <a href="https://symphonee.ai/en" style={{ color: "purple" }}><b>Symphonee</b></a> website.
+             Want to see some of my motion graphics in action? You can catch a video over on the <a href="https://symphonee.ai/en" style={{ color: "purple" }}><u><b>Symphonee</b></u></a> website.
             </p>
           </section>
           
